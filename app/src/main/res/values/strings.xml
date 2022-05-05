@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgendaDeContactosJava</string>
+    <string name="txtNombre">Nombre del contacto</string>
+    <string name="txtDatos">Datos del contacto</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnBuscar">Buscar</string>
+</resources>
